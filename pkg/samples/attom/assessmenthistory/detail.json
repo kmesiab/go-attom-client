@@ -1,0 +1,480 @@
+{
+    "status": {
+      "version": "1.0.0",
+      "code": 0,
+      "msg": "SuccessWithResult",
+      "total": 1,
+      "page": 1,
+      "pagesize": 10,
+      "responseDateTime": "2025-04-04T22:22:54.184Z",
+      "transactionID": "f2d9a63ec912499a57c440593389acd7",
+      "attomId": 184713191
+    },
+    "property": [
+      {
+        "identifier": {
+          "Id": 184713191,
+          "fips": "08031",
+          "apn": "02192-04-018-000",
+          "attomId": 184713191
+        },
+        "lot": {
+          "lotNum": "31,32",
+          "lotSize1": 0.1076676,
+          "lotSize2": 4690,
+          "poolType": "NO POOL"
+        },
+        "area": {
+          "blockNum": "36",
+          "locType": "VIEW - NONE",
+          "countrySecSubd": "Denver",
+          "countyUse1": "113  ",
+          "munCode": "DE",
+          "munName": "DENVER",
+          "srvyRange": "68W",
+          "srvySection": "19",
+          "srvyTownship": "03S",
+          "subdName": "BERKELEY",
+          "taxCodeArea": "DENV"
+        },
+        "address": {
+          "country": "US",
+          "countrySubd": "CO",
+          "line1": "4529 WINONA CT",
+          "line2": "DENVER, CO 80212",
+          "locality": "DENVER",
+          "matchCode": "ExaStr",
+          "oneLine": "4529 WINONA CT, DENVER, CO 80212",
+          "postal1": "80212",
+          "postal2": "2512",
+          "postal3": "C037"
+        },
+        "location": {
+          "accuracy": "Rooftop",
+          "latitude": "39.778926",
+          "longitude": "-105.047775",
+          "distance": 0,
+          "geoId": "CO08031, CS0891007, DB0803360, ND0000119198, ND0004861239, PL0820000, SB0000076114, SB0000076155, SB0000076161, SB0000135819, SB0000143772, ZI80212",
+          "geoIdV4": {
+            "CO": "1291dc1937525d78f89cebb6a43a50de",
+            "CS": "4c0507d0d7894d2d48e4e03e1c0240fc",
+            "DB": "d8ca7ea08abbe9efdd7e3b78f23d120e",
+            "N1": "b26d02d9330761156fc0cfd4ed8bf9a1",
+            "N2": "27e220314436f6edd5e606ddcd28156d",
+            "PL": "7de845f7ba9b234a2c5adfca1db76c64",
+            "SB": "9e0b497fb1337405c4dfe64e51568f68, 3b4cd5c56026e2e1f0e5c553b74cf05d, 93e5fef8956253c5642a335fc4a4395f, 3d0771574d56c6eae9184bc5aa3ebe19, 8a506b574561c5bab4f163492c7a386a",
+            "ZI": "0149d0a55ef2d6b71071a39f4e13d6eb"
+          }
+        },
+        "summary": {
+          "absenteeInd": "OWNER OCCUPIED",
+          "propClass": "Single Family Residence / Townhouse",
+          "propSubType": "Residential",
+          "propType": "SFR",
+          "propertyType": "SINGLE FAMILY RESIDENCE",
+          "yearBuilt": 1900,
+          "propLandUse": "SFR",
+          "propIndicator": "10"
+        },
+        "utilities": {
+          "heatingFuel": "GAS",
+          "heatingType": "CENTRAL"
+        },
+        "building": {
+          "size": {
+            "bldgSize": 934,
+            "grossSize": 1414,
+            "grossSizeAdjusted": 934,
+            "groundFloorSize": 934,
+            "livingSize": 934,
+            "sizeInd": "LIVING SQFT",
+            "universalSize": 934
+          },
+          "rooms": {
+            "bathFixtures": 5,
+            "bathsFull": 1,
+            "bathsTotal": 1,
+            "beds": 2,
+            "roomsTotal": 5
+          },
+          "interior": {
+            "bsmtSize": 480,
+            "fplcCount": 1,
+            "fplcInd": "Y",
+            "fplcType": "YES"
+          },
+          "construction": {
+            "condition": "GOOD",
+            "wallType": "BRICK"
+          },
+          "parking": {
+            "garageType": "Garage, Detached",
+            "prkgSize": 240,
+            "prkgType": "Garage, Detached"
+          },
+          "summary": {
+            "archStyle": "OTHER",
+            "levels": 1,
+            "quality": "EXCELLENT",
+            "unitsCount": "1",
+            "view": "VIEW - NONE",
+            "yearBuiltEffective": 2014
+          }
+        },
+        "vintage": {
+          "lastModified": "2024-04-23",
+          "pubDate": "2024-04-23"
+        },
+        "assessmenthistory": [
+          {
+            "assessed": {
+              "assdImprValue": 16850,
+              "assdLandValue": 23920,
+              "assdTtlValue": 40770
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 16850,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 23920,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 40770
+            },
+            "market": {
+              "mktImprValue": 251500,
+              "mktLandValue": 412000,
+              "mktTtlValue": 663500
+            },
+            "tax": {
+              "assessorYear": 2024,
+              "taxAmt": 3229.06,
+              "taxYear": 2024,
+              "taxYearAssessed": 2024
+            },
+            "lastModified": "2025-03-18"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 8375,
+              "assdLandValue": 10205,
+              "assdTtlValue": 18580
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 8375,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 10205,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 18580
+            },
+            "market": {
+              "mktTtlValue": 233300
+            },
+            "tax": {
+              "assessorYear": 2011,
+              "taxAmt": 1324.88,
+              "taxYearAssessed": 2011
+            },
+            "lastModified": "2013-06-02"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 9281,
+              "assdLandValue": 10929,
+              "assdTtlValue": 20210
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 9281,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 10929,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 20210
+            },
+            "market": {
+              "mktImprValue": 116600,
+              "mktLandValue": 137300,
+              "mktTtlValue": 253900
+            },
+            "tax": {
+              "assessorYear": 2013,
+              "taxAmt": 1679.25,
+              "taxYear": 2013,
+              "taxYearAssessed": 2013
+            },
+            "lastModified": "2015-01-15"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 9280,
+              "assdLandValue": 10930,
+              "assdTtlValue": 20210
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 9280,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 10930,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 20210
+            },
+            "market": {
+              "mktImprValue": 116600,
+              "mktLandValue": 137300,
+              "mktTtlValue": 253900
+            },
+            "tax": {
+              "assessorYear": 2014,
+              "taxAmt": 1678.52,
+              "taxYear": 2014,
+              "taxYearAssessed": 2014
+            },
+            "lastModified": "2015-03-20"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 7770,
+              "assdLandValue": 14580,
+              "assdTtlValue": 22350
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 7770,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 14580,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 22350
+            },
+            "market": {
+              "mktImprValue": 97600,
+              "mktLandValue": 183100,
+              "mktTtlValue": 280700
+            },
+            "tax": {
+              "assessorYear": 2015,
+              "taxAmt": 1746.14,
+              "taxYear": 2015,
+              "taxYearAssessed": 2015
+            },
+            "lastModified": "2016-03-29"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 7770,
+              "assdLandValue": 14580,
+              "assdTtlValue": 22350
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 7770,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 14580,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 22350
+            },
+            "market": {
+              "mktImprValue": 97600,
+              "mktLandValue": 183100,
+              "mktTtlValue": 280700
+            },
+            "tax": {
+              "assessorYear": 2016,
+              "taxAmt": 1822.58,
+              "taxYear": 2016,
+              "taxYearAssessed": 2016
+            },
+            "lastModified": "2017-02-15"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 13910,
+              "assdLandValue": 14830,
+              "assdTtlValue": 28740
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 13910,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 14830,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 28740
+            },
+            "market": {
+              "mktImprValue": 193200,
+              "mktLandValue": 206000,
+              "mktTtlValue": 399200
+            },
+            "tax": {
+              "assessorYear": 2017,
+              "taxAmt": 2216.83,
+              "taxYear": 2017,
+              "taxYearAssessed": 2017
+            },
+            "lastModified": "2018-02-23"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 13910,
+              "assdLandValue": 14830,
+              "assdTtlValue": 28740
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 13910,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 14830,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 28740
+            },
+            "market": {
+              "mktImprValue": 193200,
+              "mktLandValue": 206000,
+              "mktTtlValue": 399200
+            },
+            "tax": {
+              "assessorYear": 2018,
+              "taxAmt": 2223.47,
+              "taxYear": 2018,
+              "taxYearAssessed": 2018
+            },
+            "lastModified": "2019-02-12"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 11280,
+              "assdLandValue": 19630,
+              "assdTtlValue": 30910
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 11280,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 19630,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 30910
+            },
+            "market": {
+              "mktImprValue": 157700,
+              "mktLandValue": 274600,
+              "mktTtlValue": 432300
+            },
+            "tax": {
+              "assessorYear": 2019,
+              "taxAmt": 2229.11,
+              "taxYear": 2019,
+              "taxYearAssessed": 2019
+            },
+            "lastModified": "2020-02-25"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 11280,
+              "assdLandValue": 19630,
+              "assdTtlValue": 30910
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 11280,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 19630,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 30910
+            },
+            "market": {
+              "mktImprValue": 157700,
+              "mktLandValue": 274600,
+              "mktTtlValue": 432300
+            },
+            "tax": {
+              "assessorYear": 2020,
+              "taxAmt": 2293.38,
+              "taxYear": 2020,
+              "taxYearAssessed": 2020
+            },
+            "lastModified": "2021-07-09"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 14230,
+              "assdLandValue": 22910,
+              "assdTtlValue": 37140
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 14230,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 22910,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 37140
+            },
+            "market": {
+              "mktImprValue": 199000,
+              "mktLandValue": 320400,
+              "mktTtlValue": 519400
+            },
+            "tax": {
+              "assessorYear": 2021,
+              "taxAmt": 2771.3,
+              "taxYear": 2021,
+              "taxYearAssessed": 2021
+            },
+            "lastModified": "2023-07-17"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 13830,
+              "assdLandValue": 22270,
+              "assdTtlValue": 36100
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 13830,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 22270,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 36100
+            },
+            "market": {
+              "mktImprValue": 199000,
+              "mktLandValue": 320400,
+              "mktTtlValue": 519400
+            },
+            "tax": {
+              "assessorYear": 2022,
+              "taxAmt": 2771.3,
+              "taxYear": 2021,
+              "taxYearAssessed": 2022
+            },
+            "lastModified": "2023-11-01"
+          },
+          {
+            "assessed": {
+              "assdImprValue": 16850,
+              "assdLandValue": 23920,
+              "assdTtlValue": 40770
+            },
+            "calculations": {
+              "calcImprInd": "ASSESSED VALUE",
+              "calcImprValue": 16850,
+              "calcLandInd": "ASSESSED VALUE",
+              "calcLandValue": 23920,
+              "calcTtlInd": "ASSESSED VALUE",
+              "calcTtlValue": 40770
+            },
+            "market": {
+              "mktImprValue": 251500,
+              "mktLandValue": 412000,
+              "mktTtlValue": 663500
+            },
+            "tax": {
+              "assessorYear": 2023,
+              "taxAmt": 3159.12,
+              "taxYear": 2023,
+              "taxYearAssessed": 2023
+            },
+            "lastModified": "2024-04-23"
+          }
+        ]
+      }
+    ]
+  }

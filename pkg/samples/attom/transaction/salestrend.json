@@ -1,0 +1,1186 @@
+{
+    "status": {
+      "version": "4",
+      "code": 0,
+      "msg": "SuccessWithResult",
+      "total": 51,
+      "page": 1,
+      "pageSize": 100,
+      "transactionID": "68c75b6af714d969bf0cb624e3e69199"
+    },
+    "salesTrends": [
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2010",
+          "end": "2010"
+        },
+        "salesTrend": {
+          "homeSaleCount": 198,
+          "avgSalePrice": 98411,
+          "medSalePrice": 85500
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2010",
+          "end": "2010"
+        },
+        "salesTrend": {
+          "homeSaleCount": 36,
+          "avgSalePrice": 130441,
+          "medSalePrice": 122837
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2010",
+          "end": "2010"
+        },
+        "salesTrend": {
+          "homeSaleCount": 237,
+          "avgSalePrice": 103840,
+          "medSalePrice": 89100
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2011",
+          "end": "2011"
+        },
+        "salesTrend": {
+          "homeSaleCount": 213,
+          "avgSalePrice": 102750,
+          "medSalePrice": 85256
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2011",
+          "end": "2011"
+        },
+        "salesTrend": {
+          "homeSaleCount": 19,
+          "avgSalePrice": 137508,
+          "medSalePrice": 115500
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2011",
+          "end": "2011"
+        },
+        "salesTrend": {
+          "homeSaleCount": 291,
+          "avgSalePrice": 108966,
+          "medSalePrice": 88250
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2012",
+          "end": "2012"
+        },
+        "salesTrend": {
+          "homeSaleCount": 209,
+          "avgSalePrice": 107092,
+          "medSalePrice": 90000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2012",
+          "end": "2012"
+        },
+        "salesTrend": {
+          "homeSaleCount": 24,
+          "avgSalePrice": 124586,
+          "medSalePrice": 100494
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2012",
+          "end": "2012"
+        },
+        "salesTrend": {
+          "homeSaleCount": 282,
+          "avgSalePrice": 112424,
+          "medSalePrice": 90000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2013",
+          "end": "2013"
+        },
+        "salesTrend": {
+          "homeSaleCount": 3,
+          "avgSalePrice": 56166,
+          "medSalePrice": 41000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "CONSTRUCTION SALE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2013",
+          "end": "2013"
+        },
+        "salesTrend": {
+          "homeSaleCount": 258,
+          "avgSalePrice": 131009,
+          "medSalePrice": 122842
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2013",
+          "end": "2013"
+        },
+        "salesTrend": {
+          "homeSaleCount": 11,
+          "avgSalePrice": 216094,
+          "medSalePrice": 262400
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2013",
+          "end": "2013"
+        },
+        "salesTrend": {
+          "homeSaleCount": 361,
+          "avgSalePrice": 137294,
+          "medSalePrice": 120507
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2014",
+          "end": "2014"
+        },
+        "salesTrend": {
+          "homeSaleCount": 270,
+          "avgSalePrice": 152208,
+          "medSalePrice": 140000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2014",
+          "end": "2014"
+        },
+        "salesTrend": {
+          "homeSaleCount": 32,
+          "avgSalePrice": 180491,
+          "medSalePrice": 130855
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2014",
+          "end": "2014"
+        },
+        "salesTrend": {
+          "homeSaleCount": 344,
+          "avgSalePrice": 156916,
+          "medSalePrice": 140000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2015",
+          "end": "2015"
+        },
+        "salesTrend": {
+          "homeSaleCount": 288,
+          "avgSalePrice": 163513,
+          "medSalePrice": 150000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2015",
+          "end": "2015"
+        },
+        "salesTrend": {
+          "homeSaleCount": 47,
+          "avgSalePrice": 239210,
+          "medSalePrice": 270515
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2015",
+          "end": "2015"
+        },
+        "salesTrend": {
+          "homeSaleCount": 345,
+          "avgSalePrice": 156380,
+          "medSalePrice": 145000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2016",
+          "end": "2016"
+        },
+        "salesTrend": {
+          "homeSaleCount": 2,
+          "avgSalePrice": 89000,
+          "medSalePrice": 89000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "CONSTRUCTION SALE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2016",
+          "end": "2016"
+        },
+        "salesTrend": {
+          "homeSaleCount": 324,
+          "avgSalePrice": 176928,
+          "medSalePrice": 160000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2016",
+          "end": "2016"
+        },
+        "salesTrend": {
+          "homeSaleCount": 32,
+          "avgSalePrice": 301028,
+          "medSalePrice": 310437
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2016",
+          "end": "2016"
+        },
+        "salesTrend": {
+          "homeSaleCount": 378,
+          "avgSalePrice": 176493,
+          "medSalePrice": 158500
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2017",
+          "end": "2017"
+        },
+        "salesTrend": {
+          "homeSaleCount": 2,
+          "avgSalePrice": 87671,
+          "medSalePrice": 87671
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "CONSTRUCTION SALE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2017",
+          "end": "2017"
+        },
+        "salesTrend": {
+          "homeSaleCount": 337,
+          "avgSalePrice": 197513,
+          "medSalePrice": 180000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2017",
+          "end": "2017"
+        },
+        "salesTrend": {
+          "homeSaleCount": 63,
+          "avgSalePrice": 297505,
+          "medSalePrice": 304819
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2017",
+          "end": "2017"
+        },
+        "salesTrend": {
+          "homeSaleCount": 387,
+          "avgSalePrice": 186721,
+          "medSalePrice": 170000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2018",
+          "end": "2018"
+        },
+        "salesTrend": {
+          "homeSaleCount": 3,
+          "avgSalePrice": 132408,
+          "medSalePrice": 141225
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "CONSTRUCTION SALE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2018",
+          "end": "2018"
+        },
+        "salesTrend": {
+          "homeSaleCount": 356,
+          "avgSalePrice": 215907,
+          "medSalePrice": 191700
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2018",
+          "end": "2018"
+        },
+        "salesTrend": {
+          "homeSaleCount": 78,
+          "avgSalePrice": 294006,
+          "medSalePrice": 321437
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2018",
+          "end": "2018"
+        },
+        "salesTrend": {
+          "homeSaleCount": 391,
+          "avgSalePrice": 204030,
+          "medSalePrice": 183000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2019",
+          "end": "2019"
+        },
+        "salesTrend": {
+          "homeSaleCount": 345,
+          "avgSalePrice": 228537,
+          "medSalePrice": 207500
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2019",
+          "end": "2019"
+        },
+        "salesTrend": {
+          "homeSaleCount": 74,
+          "avgSalePrice": 290366,
+          "medSalePrice": 358222
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2019",
+          "end": "2019"
+        },
+        "salesTrend": {
+          "homeSaleCount": 379,
+          "avgSalePrice": 211057,
+          "medSalePrice": 190000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2020",
+          "end": "2020"
+        },
+        "salesTrend": {
+          "homeSaleCount": 2,
+          "avgSalePrice": 92500,
+          "medSalePrice": 92500
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "CONSTRUCTION SALE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2020",
+          "end": "2020"
+        },
+        "salesTrend": {
+          "homeSaleCount": 332,
+          "avgSalePrice": 224374,
+          "medSalePrice": 210000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2020",
+          "end": "2020"
+        },
+        "salesTrend": {
+          "homeSaleCount": 16,
+          "avgSalePrice": 201201,
+          "medSalePrice": 229500
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2020",
+          "end": "2020"
+        },
+        "salesTrend": {
+          "homeSaleCount": 395,
+          "avgSalePrice": 221469,
+          "medSalePrice": 206000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-12"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2021",
+          "end": "2021"
+        },
+        "salesTrend": {
+          "homeSaleCount": 362,
+          "avgSalePrice": 262940,
+          "medSalePrice": 242250
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-10"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2021",
+          "end": "2021"
+        },
+        "salesTrend": {
+          "homeSaleCount": 13,
+          "avgSalePrice": 327817,
+          "medSalePrice": 376900
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-10"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2021",
+          "end": "2021"
+        },
+        "salesTrend": {
+          "homeSaleCount": 465,
+          "avgSalePrice": 261008,
+          "medSalePrice": 239000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-10"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2022",
+          "end": "2022"
+        },
+        "salesTrend": {
+          "homeSaleCount": 278,
+          "avgSalePrice": 272375,
+          "medSalePrice": 254750
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2022-02-10"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2022",
+          "end": "2022"
+        },
+        "salesTrend": {
+          "homeSaleCount": 5,
+          "avgSalePrice": 316680,
+          "medSalePrice": 399900
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-03-17"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2022",
+          "end": "2022"
+        },
+        "salesTrend": {
+          "homeSaleCount": 369,
+          "avgSalePrice": 272079,
+          "medSalePrice": 250500
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2022-02-10"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2023",
+          "end": "2023"
+        },
+        "salesTrend": {
+          "homeSaleCount": 203,
+          "avgSalePrice": 282295,
+          "medSalePrice": 265000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2023-02-07"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2023",
+          "end": "2023"
+        },
+        "salesTrend": {
+          "homeSaleCount": 275,
+          "avgSalePrice": 289309,
+          "medSalePrice": 262500
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2023-02-07"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2024",
+          "end": "2024"
+        },
+        "salesTrend": {
+          "homeSaleCount": 213,
+          "avgSalePrice": 294245,
+          "medSalePrice": 280000
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2024-02-07"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2024",
+          "end": "2024"
+        },
+        "salesTrend": {
+          "homeSaleCount": 3,
+          "avgSalePrice": 377300,
+          "medSalePrice": 337000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "SUBDIVISION RELATED TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2024-03-07"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2024",
+          "end": "2024"
+        },
+        "salesTrend": {
+          "homeSaleCount": 275,
+          "avgSalePrice": 302003,
+          "medSalePrice": 280000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2024-02-07"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2025",
+          "end": "2025"
+        },
+        "salesTrend": {
+          "homeSaleCount": 24,
+          "avgSalePrice": 321825,
+          "medSalePrice": 312500
+        },
+        "category": {
+          "typeDescription": "Property type",
+          "typeValue": "SINGLE FAMILY RESIDENCE"
+        },
+        "vintage": {
+          "pubDate": "2025-02-07"
+        }
+      },
+      {
+        "location": {
+          "geoIdV4": "6828b00047035292dd47fe020e636bb3",
+          "geographyName": "48317"
+        },
+        "dateRange": {
+          "interval": "yearly",
+          "start": "2025",
+          "end": "2025"
+        },
+        "salesTrend": {
+          "homeSaleCount": 28,
+          "avgSalePrice": 312671,
+          "medSalePrice": 311000
+        },
+        "category": {
+          "typeDescription": "Transfer type",
+          "typeValue": "TRANSFER"
+        },
+        "vintage": {
+          "pubDate": "2025-02-07"
+        }
+      }
+    ]
+  }

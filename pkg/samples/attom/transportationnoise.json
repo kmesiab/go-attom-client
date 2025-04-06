@@ -1,0 +1,115 @@
+{
+    "status": {
+      "version": "1.0.0",
+      "code": 0,
+      "msg": "SuccessWithResult",
+      "total": 1,
+      "page": 1,
+      "pagesize": 0,
+      "transactionID": "3fb2503064d1fd4de31568494d596908"
+    },
+    "transportationNoise": {
+      "attomId": 3368,
+      "lat": 40.75878,
+      "lon": -73.81086,
+      "road_noise": {
+        "level": 1,
+        "level_description": "Occasional cars to light traffic",
+        "noise_sources": [
+          {
+            "source_type": "road",
+            "source_sub_type": "residential",
+            "source_description": "Cherry Avenue"
+          },
+          {
+            "source_type": "road",
+            "source_sub_type": "residential",
+            "source_description": "Murray Street"
+          },
+          {
+            "source_type": "road",
+            "source_sub_type": "primary",
+            "source_description": "Northern Boulevard"
+          },
+          {
+            "source_type": "road",
+            "source_sub_type": "residential",
+            "source_description": "156th Street"
+          },
+          {
+            "source_type": "road",
+            "source_sub_type": "residential",
+            "source_description": "Delaware Avenue"
+          }
+        ]
+      },
+      "aviation_noise": {
+        "level": 2,
+        "level_description": "Near an airport"
+      },
+      "emg_vehicle_noise": {
+        "level": 3,
+        "level_description": "Possible frequent or loud ambulance or fire truck sirens",
+        "noise_sources": [
+          {
+            "source_type": "fire-station",
+            "source_description": "FDNY E274",
+            "source_dist_km": 0.4
+          },
+          {
+            "source_type": "hospital",
+            "source_description": "Flushing Hospital Medical Center",
+            "source_dist_km": 0.6
+          },
+          {
+            "source_type": "fire-station",
+            "source_description": "New York Ladder Company 129",
+            "source_dist_km": 1.3
+          },
+          {
+            "source_type": "fire-station",
+            "source_description": "FDNY Engine 273",
+            "source_dist_km": 1.3
+          },
+          {
+            "source_type": "hospital",
+            "source_description": "NewYork-Presbyterian/Queens",
+            "source_dist_km": 1.8
+          }
+        ]
+      },
+      "rail_whistle_noise": {
+        "level": 0,
+        "level_description": "There aren't any train crossings with whistles nearby",
+        "noise_sources": []
+      },
+      "rail_noise": {
+        "level": 2,
+        "level_description": "Nearby trains",
+        "noise_sources": [
+          {
+            "source_type": "rail",
+            "source_sub_type": "rail",
+            "source_description": "Port Washington Branch"
+          },
+          {
+            "source_type": "rail",
+            "source_sub_type": "subway",
+            "source_description": "IRT Flushing Line"
+          },
+          {
+            "source_type": "rail",
+            "source_sub_type": "rail",
+            "source_description": ""
+          },
+          {
+            "source_type": "rail",
+            "source_sub_type": "subway",
+            "source_description": ""
+          }
+        ]
+      },
+      "overall_summary": "Traffic noise is relatively low.  Also, there may be a medium level of aircraft noise overhead.  Additionally, there may be frequent ambulance traffic nearby.  Furthermore, there may be a medium level of noise from trains.",
+      "disclaimer_text": "© <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors"
+    }
+  }

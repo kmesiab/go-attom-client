@@ -1,0 +1,357 @@
+{
+  "status": {
+    "version": "1.0.0",
+    "code": 0,
+    "msg": "SuccessWithResult",
+    "total": 10000,
+    "page": 1,
+    "pagesize": 10,
+    "responseDateTime": "2025-04-05T20:22:37.576Z",
+    "transactionID": "b95c1b910dd273f990bfbe15e74b8990"
+  },
+  "property": [
+    {
+      "identifier": {
+        "Id": 333674399,
+        "fips": "56021",
+        "apn": "1510400050000",
+        "attomId": 333674399
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "1810 LAGO DR",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "oneLine": "1810 LAGO DR, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "9797",
+        "postal3": "H058"
+      },
+      "location": {
+        "distance": 0,
+        "geoid": "CO56021, CS5690715, DB5601980, PL5613900, RS0005163012, SB0000130742, SB0000130746, SB0000130770, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71"
+        }
+      },
+      "vintage": {
+        "lastModified": "2022-01-07",
+        "pubDate": "2022-01-07"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 333674400,
+        "fips": "56021",
+        "apn": "169750004000000",
+        "attomId": 333674400
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "1818 BEAR CUB RD",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "oneLine": "1818 BEAR CUB RD, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": ""
+      },
+      "location": {
+        "distance": 0,
+        "geoid": "CO56021, CS5690825, DB5601980, SB0000130742, SB0000130746, SB0000130762, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71"
+        }
+      },
+      "vintage": {
+        "lastModified": "2022-01-10",
+        "pubDate": "2022-01-10"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 333996005,
+        "fips": "56021",
+        "apn": "19265000030070",
+        "attomId": 333996005
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "5708 CARMEL DR",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "oneLine": "5708 CARMEL DR, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "5833",
+        "postal3": "C041"
+      },
+      "location": {
+        "distance": 0,
+        "geoid": "CO56021, CS5690715, DB5601980, PL5613900, RS0005163012, SB0000130742, SB0000130746, SB0000130770, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71"
+        }
+      },
+      "vintage": {
+        "lastModified": "2022-03-11",
+        "pubDate": "2022-03-11"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 334198116,
+        "fips": "56021",
+        "apn": "1412100200130",
+        "attomId": 334198116
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "5253 SHADOW ROCK DR",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "oneLine": "5253 SHADOW ROCK DR, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "5565",
+        "postal3": "C041"
+      },
+      "location": {
+        "distance": 0,
+        "geoid": "CO56021, CS5690715, DB5601980, PL5613900, RS0005152179, SB0000130743, SB0000130744, SB0000130748, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71"
+        }
+      },
+      "vintage": {
+        "lastModified": "2022-05-05",
+        "pubDate": "2022-05-05"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 337119102,
+        "fips": "56021",
+        "apn": "1926000200180",
+        "attomId": 337119102
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "5139 CARLA DR",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "oneLine": "5139 CARLA DR, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "5865",
+        "postal3": "C041"
+      },
+      "location": {
+        "distance": 0,
+        "geoid": "CO56021",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71"
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-01-23",
+        "pubDate": "2024-01-23"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 197366531,
+        "fips": "56021",
+        "apn": "00014006718060",
+        "attomId": 197366531
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "10321 POLO RANCH RD",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "matchCode": "ExaStr",
+        "oneLine": "10321 POLO RANCH RD, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "8824",
+        "postal3": "R013"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "41.180171",
+        "longitude": "-104.939665",
+        "distance": 0,
+        "geoid": "CO56021, CS5690825, DB5601980, SB0000130742, SB0000130746, SB0000130756, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71",
+          "CS": "afb4f4d8de38f997097b0e3a2e7f8081",
+          "DB": "30c86a3f2f5c848363c435461b716572",
+          "SB": "d6d1d81d2431e3a0d1b8553c6b0dcb5d, 48585caa18b3bdabfd9131935f7694b4, 744f36341a01a573d4ff7c61ea2cc7ed",
+          "ZI": "ac6c213665a7701bd3617ada1ff96513"
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-06-25",
+        "pubDate": "2024-06-25"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 238171594,
+        "fips": "56021",
+        "apn": "18809000700080",
+        "attomId": 238171594
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "1335 MARIE LN",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "matchCode": "ExaStr",
+        "oneLine": "1335 MARIE LN, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "3865",
+        "postal3": "R011"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "41.187352",
+        "longitude": "-104.804637",
+        "distance": 0,
+        "geoid": "CO56021, CS5690825, DB5601980, SB0000130742, SB0000130746, SB0000130762, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71",
+          "CS": "29392c8fb7766fb633eb98b90048e74f",
+          "DB": "30c86a3f2f5c848363c435461b716572",
+          "N4": "5a67727f7cd52b7a87a76cece260994d",
+          "PL": "802b98230660b6ebebd36a06ec9e541e",
+          "SB": "26c640f6b7160b5a8774e22abe70c51b, 48585caa18b3bdabfd9131935f7694b4, 744f36341a01a573d4ff7c61ea2cc7ed",
+          "ZI": "ac6c213665a7701bd3617ada1ff96513"
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-06-25",
+        "pubDate": "2024-06-25"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 246574831,
+        "fips": "56021",
+        "apn": "00017006425010",
+        "attomId": 246574831
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "ROAD 139",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "matchCode": "ExaStr",
+        "oneLine": "ROAD 139, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": ""
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "41.411781",
+        "longitude": "-104.488935",
+        "distance": 0,
+        "geoid": "CO56021, CS5690715, DB5601980, PL5613900, RS0005163012, SB0000130742, SB0000130746, SB0000130770, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71",
+          "CS": "e5a490a174895893b11ce251b6cea7bd",
+          "DB": "898d6145ddc5cc2da48b3a7457b73aa0",
+          "SB": "f3e928433a73da496fdc8d82aa2f2c66, 6f5b60bf7cfa2d67a6bbcf69d02f6fdb, c8b495216cd12fdbf1748d3e988cf60b, 22cf9943e3fac1f7a17e9ecafe79bd60, a41c79b4f6c3a16d636ead7488d328a4, d67026f8895f3eec9b585520b6e5c8cc",
+          "ZI": "ac6c213665a7701bd3617ada1ff96513"
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-06-25",
+        "pubDate": "2024-06-25"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 318079609,
+        "fips": "56021",
+        "apn": "51078145229620",
+        "attomId": 318079609
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "4811 GLENCOE DR",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "matchCode": "ExaStr",
+        "oneLine": "4811 GLENCOE DR, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": "3161",
+        "postal3": "R003"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "41.181069",
+        "longitude": "-104.752736",
+        "distance": 0,
+        "geoid": "CO56021, CS5690715, DB5601980, PL5663800, RS0000102464, SB0000130743, SB0000130744, SB0000130770, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71",
+          "CS": "29392c8fb7766fb633eb98b90048e74f",
+          "DB": "30c86a3f2f5c848363c435461b716572",
+          "N4": "0b76a79753e8084bb1655f77c22edbbd",
+          "PL": "d3249a2aecfeabe2a060e532ab7d2ad4",
+          "SB": "5b88c062457fc7330a81dec74b026e41, 26c640f6b7160b5a8774e22abe70c51b, 2adc253f6a9750a26911d38c6cd21b9b",
+          "ZI": "ac6c213665a7701bd3617ada1ff96513"
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-06-25",
+        "pubDate": "2024-06-25"
+      }
+    },
+    {
+      "identifier": {
+        "Id": 318079644,
+        "fips": "56021",
+        "apn": "51079245635120",
+        "attomId": 318079644
+      },
+      "address": {
+        "country": "US",
+        "countrySubd": "WY",
+        "line1": "3708 MYNEAR ST",
+        "line2": "CHEYENNE, WY 82009",
+        "locality": "CHEYENNE",
+        "matchCode": "ExaStr",
+        "oneLine": "3708 MYNEAR ST, CHEYENNE, WY 82009",
+        "postal1": "82009",
+        "postal2": ""
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "41.180302",
+        "longitude": "-104.763949",
+        "distance": 0,
+        "geoid": "CO56021, CS5690715, DB5601980, PL5663800, RS0000102464, SB0000130743, SB0000130744, SB0000130770, ZI82009",
+        "geoIdV4": {
+          "CO": "16856031afb1b236f0d628bb802eac71",
+          "CS": "29392c8fb7766fb633eb98b90048e74f",
+          "DB": "30c86a3f2f5c848363c435461b716572",
+          "N4": "0b76a79753e8084bb1655f77c22edbbd",
+          "PL": "d3249a2aecfeabe2a060e532ab7d2ad4",
+          "SB": "5b88c062457fc7330a81dec74b026e41, 26c640f6b7160b5a8774e22abe70c51b, 2adc253f6a9750a26911d38c6cd21b9b",
+          "ZI": "ac6c213665a7701bd3617ada1ff96513"
+        }
+      },
+      "vintage": {
+        "lastModified": "2024-06-25",
+        "pubDate": "2024-06-25"
+      }
+    }
+  ]
+}

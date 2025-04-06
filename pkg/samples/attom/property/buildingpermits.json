@@ -1,0 +1,180 @@
+{
+    "status": {
+      "version": "1.0.0",
+      "code": 0,
+      "msg": "SuccessWithResult",
+      "total": 1,
+      "page": 1,
+      "pagesize": 10,
+      "responseDateTime": "2025-04-04T22:20:34.506Z",
+      "transactionID": "1ff840cc2bf3c16fecae53227b2e6794",
+      "attomId": 184713191
+    },
+    "property": [
+      {
+        "identifier": {
+          "Id": 184713191,
+          "fips": "08031",
+          "apn": "02192-04-018-000",
+          "attomId": 184713191
+        },
+        "lot": {
+          "lotSize1": 0.1076676
+        },
+        "address": {
+          "country": "US",
+          "countrySubd": "CO",
+          "line1": "4529 WINONA CT",
+          "line2": "DENVER, CO 80212",
+          "locality": "DENVER",
+          "matchCode": "ExaStr",
+          "oneLine": "4529 WINONA CT, DENVER, CO 80212",
+          "postal1": "80212",
+          "postal2": "2512",
+          "postal3": "C037"
+        },
+        "location": {
+          "accuracy": "Rooftop",
+          "latitude": "39.778926",
+          "longitude": "-105.047775",
+          "distance": 0,
+          "geoId": "CO08031, CS0891007, DB0803360, ND0000119198, ND0004861239, PL0820000, SB0000076114, SB0000076155, SB0000076161, SB0000135819, SB0000143772, ZI80212",
+          "geoIdV4": {
+            "CO": "1291dc1937525d78f89cebb6a43a50de",
+            "CS": "4c0507d0d7894d2d48e4e03e1c0240fc",
+            "DB": "d8ca7ea08abbe9efdd7e3b78f23d120e",
+            "N1": "b26d02d9330761156fc0cfd4ed8bf9a1",
+            "N2": "27e220314436f6edd5e606ddcd28156d",
+            "PL": "7de845f7ba9b234a2c5adfca1db76c64",
+            "SB": "9e0b497fb1337405c4dfe64e51568f68, 3b4cd5c56026e2e1f0e5c553b74cf05d, 93e5fef8956253c5642a335fc4a4395f, 3d0771574d56c6eae9184bc5aa3ebe19, 8a506b574561c5bab4f163492c7a386a",
+            "ZI": "0149d0a55ef2d6b71071a39f4e13d6eb"
+          }
+        },
+        "summary": {
+          "propClass": "Single Family Residence / Townhouse",
+          "propSubType": "Residential",
+          "propType": "SFR",
+          "propertyType": "SINGLE FAMILY RESIDENCE",
+          "yearBuilt": 1900,
+          "propLandUse": "SFR",
+          "propIndicator": 10
+        },
+        "building": {
+          "size": {
+            "universalSize": 934
+          },
+          "rooms": {
+            "bathsTotal": 1,
+            "beds": 2
+          }
+        },
+        "buildingPermits": [
+          {
+            "effectiveDate": "2013-04-04",
+            "permitNumber": "00347672",
+            "jobValue": 2000,
+            "fees": 35,
+            "businessName": "Doctor Fix-it Plumbing, Heating & Electr",
+            "homeOwnerName": "Stcherbak,lidia",
+            "classifiers": [
+              "Electrical Work",
+              "Plumbing"
+            ]
+          },
+          {
+            "effectiveDate": "2017-05-17",
+            "permitNumber": "2016-ELEC-0004720",
+            "status": "withdrawn",
+            "description": "R/r air conditioning",
+            "type": "Electrical permit",
+            "projectName": "Electrical Permit",
+            "fees": 20,
+            "businessName": "Positively Electric INC",
+            "homeOwnerName": "Mattice,michael Scott",
+            "classifiers": [
+              "Electrical Work"
+            ]
+          },
+          {
+            "effectiveDate": "2016-05-27",
+            "permitNumber": "2016-MECH-0003896",
+            "status": "final",
+            "description": "R/r air conditioning",
+            "type": "Mechanical permit",
+            "projectName": "Mechanical Permit",
+            "fees": 59,
+            "businessName": "Seasonal Comfort Systems LLC",
+            "homeOwnerName": "Mattice,michael Scott",
+            "classifiers": [
+              "Mechanical Work"
+            ]
+          },
+          {
+            "effectiveDate": "2016-06-17",
+            "permitNumber": "2015-ROOFSIDE-0014621",
+            "status": "final",
+            "description": "Re/re: 4529 winona ct",
+            "type": "Roofing and siding permit",
+            "projectName": "Roofing Permit",
+            "fees": 91,
+            "businessName": "Reitz Roofing INC",
+            "homeOwnerName": "Mattice,michael Scott",
+            "classifiers": [
+              "Roofing",
+              "Siding"
+            ]
+          },
+          {
+            "effectiveDate": "2017-09-22",
+            "permitNumber": "2017-ROOFSIDE-0013232",
+            "status": "final",
+            "description": "Tear off existing material house and garage redeck garage only and reroof house and garage. Pitch 7 & 3/12 (ice and water all)",
+            "type": "Roofing and siding permit",
+            "projectName": "Aca Roofing Permit",
+            "jobValue": 9447,
+            "fees": 99,
+            "businessName": "J&K Roofing INC",
+            "homeOwnerName": "Mattice,michael Scott",
+            "classifiers": [
+              "Roofing",
+              "Siding"
+            ]
+          },
+          {
+            "effectiveDate": "2013-04-04",
+            "permitNumber": "2013-MECH-0000347672",
+            "status": "issued",
+            "type": "Mechanical permit",
+            "projectName": "Permit # 00347672",
+            "fees": 35,
+            "businessName": "Doctor FIX IT Plumbing Heating &E",
+            "homeOwnerName": "Stcherbak, Lidia",
+            "classifiers": [
+              "Electrical Work",
+              "Mechanical Work",
+              "Plumbing"
+            ]
+          },
+          {
+            "effectiveDate": "2018-11-30",
+            "permitNumber": "2018-ELEC-0014039",
+            "status": "final",
+            "description": "200 amp service change and 50 amp sub-panel to garage",
+            "type": "Electrical permit",
+            "projectName": "Aca Electrical Permit",
+            "jobValue": 4000,
+            "fees": 51,
+            "businessName": "Positively Electric INC",
+            "homeOwnerName": "Mattice,michael Scott",
+            "classifiers": [
+              "Electrical Work"
+            ]
+          }
+        ],
+        "vintage": {
+          "lastModified": "2024-06-07",
+          "pubDate": "2024-04-23"
+        }
+      }
+    ]
+  }
